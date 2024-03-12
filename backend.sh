@@ -27,4 +27,4 @@ dnf install mysql -y
 
 mysql -h 172.31.81.81 -uroot -pExpenseApp@1 < /app/schema/backend.sql 
 
-Hello
+
